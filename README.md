@@ -2,9 +2,9 @@
 Parser for scientific papers to check conformity with the publisher's request
 
 *   [Tree](test/doc/overview-tree.html)
-*   [Deprecated](deprecated-list.html)
-*   [Index](index-files/index-1.html)
-*   [Help](help-doc.html#overview)
+*   [Deprecated](test/doc/deprecated-list.html)
+*   [Index](test/doc/index-files/index-1.html)
+*   [Help](test/doc/help-doc.html#overview)
 
 SEARCH:  
 
